@@ -1,0 +1,3 @@
+#IICS SCENARIOS
+
+Create a mapping where we import csv file with table names and generate count and export as CV with two columns, table_name and Count.
